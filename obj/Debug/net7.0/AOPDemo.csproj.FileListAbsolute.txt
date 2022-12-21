@@ -1,0 +1,15 @@
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.csproj.AssemblyReference.cache
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.AssemblyInfoInputs.cache
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.AssemblyInfo.cs
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.csproj.CoreCompileInputs.cache
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/bin/Debug/net7.0/AOPDemo
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/bin/Debug/net7.0/AOPDemo.deps.json
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/bin/Debug/net7.0/AOPDemo.runtimeconfig.json
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/bin/Debug/net7.0/AOPDemo.dll
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/bin/Debug/net7.0/AOPDemo.pdb
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.dll
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/refint/AOPDemo.dll
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.pdb
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/AOPDemo.genruntimeconfig.cache
+/Users/yunuskiran/Desktop/repos/aop/AOPDemo/obj/Debug/net7.0/ref/AOPDemo.dll
